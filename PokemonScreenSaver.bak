@@ -1,6 +1,6 @@
 NBW Publication Source File
 (C)2021 SinLios
-Title=PokeMMOScreenSaver
+Title=PokemonScreenSaver
 Language=US
 NeoBookVer=5,80
 ScreenColors=16777216
@@ -40,7 +40,7 @@ SetupInstDir=C:\MiPrograma
 SetupTitle=Instalación
 SetupColors=16711680|0|65535
 Variables=[ancho_1]¶[Ext_video]¶[Height_1]¶[RutaVideo]¶
-VersionProduct=PokeMMOScreenSaver
+VersionProduct=PokemonScreenSaver
 VersionCopyright=josevdr95
 VersionMajor=1
 VersionMinor=0
@@ -137,7 +137,7 @@ Name=ComboBox1
 X=19
 Y=32
 W=161
-H=33
+H=25
 Anchor=0
 Text=Kanto¶Hoenn¶Unova¶Sinnoh
 VarName=[p_select]

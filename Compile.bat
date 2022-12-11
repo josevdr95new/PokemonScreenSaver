@@ -1,7 +1,7 @@
 @ECHO OFF
 CLS
 REM Run NeoBook/VisualNeoWin to compile the publication
-"C:\Program Files (x86)\VisualNeoWin\VisualNeoWin.exe" /C "%~d0%~p0PokeMMOScreenSaver.pub"
+"C:\Program Files (x86)\VisualNeoWin\VisualNeoWin.exe" /C "%~d0%~p0PokemonScreenSaver"
 
 REM Run the compiled publication
 REM "C:\Users\jose\Documents\NeoPlugins\npNots\Samples\Notifications.exe"
